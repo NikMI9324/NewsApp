@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pS1YjPY82lqwJ9gsfcoOvTHg+e99tXqTxwMYi6x/G3M=",
+  "Source": "NewsApp.Backend.User.API",
+  "BasePath": "_content/NewsApp.Backend.User.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

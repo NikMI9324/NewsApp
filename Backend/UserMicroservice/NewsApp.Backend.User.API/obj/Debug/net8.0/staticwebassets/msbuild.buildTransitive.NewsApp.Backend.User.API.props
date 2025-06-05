@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NewsApp.Backend.User.API.props" />
+</Project>
