@@ -31,3 +31,4 @@ C:\Users\Мирон\source\repos\NewsApp\Backend\NewsMicroservice\NewsApp.Backen
 C:\Users\Мирон\source\repos\NewsApp\Backend\NewsMicroservice\NewsApp.Backend.News.API\obj\Debug\net8.0\NewsApp.Backend.News.API.pdb
 C:\Users\Мирон\source\repos\NewsApp\Backend\NewsMicroservice\NewsApp.Backend.News.API\obj\Debug\net8.0\NewsApp.Backend.News.API.genruntimeconfig.cache
 C:\Users\Мирон\source\repos\NewsApp\Backend\NewsMicroservice\NewsApp.Backend.News.API\obj\Debug\net8.0\ref\NewsApp.Backend.News.API.dll
+C:\Users\Мирон\source\repos\NewsApp\Backend\NewsMicroservice\NewsApp.Backend.News.API\obj\Debug\net8.0\NewsApp.Backend.News.API.sourcelink.json

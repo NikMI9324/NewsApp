@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NewsApp.Backend.User.Infrastructure.Data
 {
-    internal class UserDbContext
+    internal class UserDbContext : DbContext
     {
     }
 }

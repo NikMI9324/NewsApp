@@ -5,31 +5,28 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewsMicroservice", "NewsMicroservice", "{B2FFB57B-E8B1-44D0-8E23-2F5FD1250838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.News.API", "NewsMicroservice\NewsApp.Backend.News.API\NewsApp.Backend.News.API.csproj", "{BF7A4BD5-456F-443E-98BC-408AF03BEBD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.News.API", "NewsMicroservice\NewsApp.Backend.News.API\NewsApp.Backend.News.API.csproj", "{BF7A4BD5-456F-443E-98BC-408AF03BEBD2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserMicroservice", "UserMicroservice", "{925085A7-6723-4C77-BCEA-B7D78B4ECBA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.User.API", "UserMicroservice\NewsApp.Backend.User.API\NewsApp.Backend.User.API.csproj", "{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.User.API", "UserMicroservice\NewsApp.Backend.User.API\NewsApp.Backend.User.API.csproj", "{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.News.Domain", "NewsMicroservice\NewsApp.Backend.News.Domain\NewsApp.Backend.News.Domain.csproj", "{0BE5AE3B-6F77-4E61-A547-458502058262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.News.Domain", "NewsMicroservice\NewsApp.Backend.News.Domain\NewsApp.Backend.News.Domain.csproj", "{0BE5AE3B-6F77-4E61-A547-458502058262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.News.Infrastructure", "NewsMicroservice\NewsApp.Backend.News.Infrastructure\NewsApp.Backend.News.Infrastructure.csproj", "{5BCB502C-BCC4-4A19-A5BB-B2F1AE36B622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.News.Infrastructure", "NewsMicroservice\NewsApp.Backend.News.Infrastructure\NewsApp.Backend.News.Infrastructure.csproj", "{5BCB502C-BCC4-4A19-A5BB-B2F1AE36B622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.User.Infrastructure", "UserMicroservice\NewsApp.Backend.User.Infrastructure\NewsApp.Backend.User.Infrastructure.csproj", "{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.User.Infrastructure", "UserMicroservice\NewsApp.Backend.User.Infrastructure\NewsApp.Backend.User.Infrastructure.csproj", "{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.User.Domain", "UserMicroservice\NewsApp.Backend.User.Domain\NewsApp.Backend.User.Domain.csproj", "{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.User.Domain", "UserMicroservice\NewsApp.Backend.User.Domain\NewsApp.Backend.User.Domain.csproj", "{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.User.Application", "UserMicroservice\NewsApp.Backend.User.Application\NewsApp.Backend.User.Application.csproj", "{F3C1E806-610D-4253-8580-5AB1ACE037A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.User.Application", "UserMicroservice\NewsApp.Backend.User.Application\NewsApp.Backend.User.Application.csproj", "{F3C1E806-610D-4253-8580-5AB1ACE037A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp.Backend.News.Application", "NewsMicroservice\NewsApp.Backend.News.Application\NewsApp.Backend.News.Application.csproj", "{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApp.Backend.News.Application", "NewsMicroservice\NewsApp.Backend.News.Application\NewsApp.Backend.News.Application.csproj", "{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BF7A4BD5-456F-443E-98BC-408AF03BEBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -65,6 +62,9 @@ Global
 		{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BF7A4BD5-456F-443E-98BC-408AF03BEBD2} = {B2FFB57B-E8B1-44D0-8E23-2F5FD1250838}
 		{08EC622E-3A5D-42E6-B3E5-D1680A9A7161} = {925085A7-6723-4C77-BCEA-B7D78B4ECBA4}
@@ -74,5 +74,8 @@ Global
 		{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338} = {925085A7-6723-4C77-BCEA-B7D78B4ECBA4}
 		{F3C1E806-610D-4253-8580-5AB1ACE037A9} = {925085A7-6723-4C77-BCEA-B7D78B4ECBA4}
 		{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8} = {B2FFB57B-E8B1-44D0-8E23-2F5FD1250838}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DB0972-D713-4374-B69B-E07EAF4AF979}
 	EndGlobalSection
 EndGlobal
