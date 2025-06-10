@@ -3,47 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8}|NewsMicroservice\\NewsApp.Backend.News.Application\\NewsApp.Backend.News.Application.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\newsmicroservice\\newsapp.backend.news.application\\newsapp.backend.news.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83E2D3C9-7E89-4DBE-A0CD-545D532C39A8}|NewsMicroservice\\NewsApp.Backend.News.Application\\NewsApp.Backend.News.Application.csproj|solutionrelative:newsmicroservice\\newsapp.backend.news.application\\newsapp.backend.news.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE5AE3B-6F77-4E61-A547-458502058262}|NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\newsmicroservice\\newsapp.backend.news.domain\\newsapp.backend.news.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0BE5AE3B-6F77-4E61-A547-458502058262}|NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj|solutionrelative:newsmicroservice\\newsapp.backend.news.domain\\newsapp.backend.news.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3C1E806-610D-4253-8580-5AB1ACE037A9}|UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.application\\dtos\\registerusedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C1E806-610D-4253-8580-5AB1ACE037A9}|UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.application\\dtos\\registerusedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCB502C-BCC4-4A19-A5BB-B2F1AE36B622}|NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\newsmicroservice\\newsapp.backend.news.infrastructure\\newsapp.backend.news.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5BCB502C-BCC4-4A19-A5BB-B2F1AE36B622}|NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj|solutionrelative:newsmicroservice\\newsapp.backend.news.infrastructure\\newsapp.backend.news.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.domain\\newsapp.backend.user.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.domain\\newsapp.backend.user.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.infrastructure\\newsapp.backend.user.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.infrastructure\\newsapp.backend.user.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C1E806-610D-4253-8580-5AB1ACE037A9}|UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.application\\newsapp.backend.user.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3C1E806-610D-4253-8580-5AB1ACE037A9}|UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.application\\newsapp.backend.user.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.api\\newsapp.backend.user.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.api\\newsapp.backend.user.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF7A4BD5-456F-443E-98BC-408AF03BEBD2}|NewsMicroservice\\NewsApp.Backend.News.API\\NewsApp.Backend.News.API.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\newsmicroservice\\newsapp.backend.news.api\\newsapp.backend.news.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BF7A4BD5-456F-443E-98BC-408AF03BEBD2}|NewsMicroservice\\NewsApp.Backend.News.API\\NewsApp.Backend.News.API.csproj|solutionrelative:newsmicroservice\\newsapp.backend.news.api\\newsapp.backend.news.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.domain\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.domain\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.infrastructure\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.infrastructure\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C1E806-610D-4253-8580-5AB1ACE037A9}|UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.application\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C1E806-610D-4253-8580-5AB1ACE037A9}|UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.application\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.infrastructure\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE507B7-4BD3-47D1-AB13-A1F720CF819A}|UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.infrastructure\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.domain\\interfaces\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3C97FB-C39C-45CE-B859-D4C9E2A3E338}|UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.domain\\interfaces\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\usermicroservice\\newsapp.backend.user.api\\newsapp.backend.user.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08EC622E-3A5D-42E6-B3E5-D1680A9A7161}|UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj|solutionrelative:usermicroservice\\newsapp.backend.user.api\\newsapp.backend.user.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCB502C-BCC4-4A19-A5BB-B2F1AE36B622}|NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\newsmicroservice\\newsapp.backend.news.infrastructure\\data\\newsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCB502C-BCC4-4A19-A5BB-B2F1AE36B622}|NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj|solutionrelative:newsmicroservice\\newsapp.backend.news.infrastructure\\data\\newsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BE5AE3B-6F77-4E61-A547-458502058262}|NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj|c:\\users\\\u043C\u0438\u0440\u043E\u043D\\source\\repos\\newsapp\\backend\\newsmicroservice\\newsapp.backend.news.domain\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,163 +70,180 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewsApp.Backend.News.Domain",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj",
-              "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj",
-              "RelativeToolTip": "NewsMicroservice\\NewsApp.Backend.News.Domain\\NewsApp.Backend.News.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T10:35:50.275Z",
+              "DocumentIndex": 5,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:39:44.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "ViewState": "AgIAAJsAAAAAAAAAAADgv6UAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-06T10:34:39.519Z",
+              "DocumentIndex": 1,
+              "Title": "RegisterUseDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\RegisterUseDto.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\RegisterUseDto.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\RegisterUseDto.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Application\\Dtos\\RegisterUseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:39:34.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewsApp.Backend.News.Application",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Application\\NewsApp.Backend.News.Application.csproj",
-              "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.Application\\NewsApp.Backend.News.Application.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Application\\NewsApp.Backend.News.Application.csproj",
-              "RelativeToolTip": "NewsMicroservice\\NewsApp.Backend.News.Application\\NewsApp.Backend.News.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T10:34:18.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NewsApp.Backend.News.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj",
-              "RelativeToolTip": "NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\NewsApp.Backend.News.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T10:34:14.212Z",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:57:17.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "NewsApp.Backend.News.API",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.API\\NewsApp.Backend.News.API.csproj",
-              "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.API\\NewsApp.Backend.News.API.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.API\\NewsApp.Backend.News.API.csproj",
-              "RelativeToolTip": "NewsMicroservice\\NewsApp.Backend.News.API\\NewsApp.Backend.News.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T08:06:11Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.API\\appsettings.json",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T14:19:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Interfaces\\ITokenProvider.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Domain\\Interfaces\\ITokenProvider.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Interfaces\\ITokenProvider.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Domain\\Interfaces\\ITokenProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:57:12.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\TokenProvider.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\TokenProvider.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:07:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\Permission.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\Permission.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:30:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NewsApp.Backend.User.API",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj",
               "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj",
               "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.API\\NewsApp.Backend.User.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T07:34:33.45Z",
+              "WhenOpened": "2025-06-09T21:20:22.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.API\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.API\\Program.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:24:13.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "NewsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\Data\\NewsDbContext.cs",
+              "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\Data\\NewsDbContext.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\Data\\NewsDbContext.cs",
+              "RelativeToolTip": "NewsMicroservice\\NewsApp.Backend.News.Infrastructure\\Data\\NewsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:51:39.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "News.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Domain\\Models\\News.cs",
               "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.Domain\\Models\\News.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.Domain\\Models\\News.cs",
               "RelativeToolTip": "NewsMicroservice\\NewsApp.Backend.News.Domain\\Models\\News.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwBkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:58:56.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "UserDbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Data\\UserDbContext.cs",
               "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Data\\UserDbContext.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Data\\UserDbContext.cs",
               "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\Data\\UserDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:39:15.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewsApp.Backend.User.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj",
-              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Infrastructure\\NewsApp.Backend.User.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T08:38:11.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\User.cs",
-              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\UserModel.cs",
+              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Domain\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T07:42:45.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewsApp.Backend.User.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj",
-              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj",
-              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Application\\NewsApp.Backend.User.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T07:42:30.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewsApp.Backend.User.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj",
-              "RelativeDocumentMoniker": "UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj",
-              "RelativeToolTip": "UserMicroservice\\NewsApp.Backend.User.Domain\\NewsApp.Backend.User.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T07:42:07.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0440\u043E\u043D\\source\\repos\\NewsApp\\Backend\\NewsMicroservice\\NewsApp.Backend.News.API\\Program.cs",
               "RelativeDocumentMoniker": "NewsMicroservice\\NewsApp.Backend.News.API\\Program.cs",

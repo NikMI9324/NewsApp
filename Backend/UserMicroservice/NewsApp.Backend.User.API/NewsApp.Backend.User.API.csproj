@@ -7,8 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.8" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewsApp.Backend.User.Application\NewsApp.Backend.User.Application.csproj" />
+    <ProjectReference Include="..\NewsApp.Backend.User.Domain\NewsApp.Backend.User.Domain.csproj" />
+    <ProjectReference Include="..\NewsApp.Backend.User.Infrastructure\NewsApp.Backend.User.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

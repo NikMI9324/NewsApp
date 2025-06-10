@@ -9,23 +9,24 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace NewsApp.Backend.News.Domain.Models
 {
-    internal class News
+    public class News
     {
-        [Key]
-        [Column("news_id")]
         public Guid NewsId { get; private set; }
-        [Required]
-        [MaxLength(200)]
-        [Column("title", TypeName = "varchar(200)")]
         public string Title { get; private set; } = string.Empty;
-        [Required]
-        [Column("content", TypeName = "text")]
         public string Content { get; private set; } = string.Empty;
-        [Column("created_at")]
         public DateTime CreatedAt { get; private set; } = DateTime.UtcNow;
-        
         public Guid UserId { get; private set; }
         public string UserName { get; private set; } = string.Empty;
+
+        public News(string title, string content, Guid userId)
+        {
+            NewsId = Guid.NewGuid();
+            Title = title;
+            Content = content;
+            CreatedAt = DateTime.UtcNow;
+            UserId = userId;
+        }
+
 
     }
 }
